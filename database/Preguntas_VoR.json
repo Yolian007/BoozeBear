@@ -1,0 +1,126 @@
+{
+    "asksVerdad": [
+    {
+        "name": "¿Cuál es tu mayor miedo? ",
+        "category": "Hot",
+        "id": 1
+      },
+      {
+        "name": "¿Con cuántas personas has estado?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Qué es la cosa más loca que has buscado en Internet?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Con quién de esta habitación pasarías una noche?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Tus padres te han pillado haciéndolo?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Te has sentido atraído por algún familiar?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Qué es lo más raro que has hecho estando solo o sola?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Cuál es tu récord de masturbarte en un día?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Qué es lo peor que has hecho por amor?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Cuál es el sitio más raro donde has tenido sexo?",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "¿Qué canción te da vergüenza que te guste?",
+        "category": "Hot",
+        "id": 2
+      }
+    ],
+    "asksReto": [
+      {
+        "name": "Canta una canción de tu artista favorito",
+        "category": "Hot",
+        "id": 1
+      },
+      {
+        "name": "Baila como un robot",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Quitate cuatro prendas de ropa que elijan los demás",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Quedate en ropa interior delante de todos durante 10 minutos",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Llama a tu ex y dile que estas embarazada",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Dile a alguien que te cae mal lo que verdaderamente piensas de él/ella",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Hazte pasar por otra persona durante las siguientes 2 rondas del juego",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Demuestra un talento oculto que tengas",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Pon la foto de perfil de tu ex",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Bebe un sorbo de la parte del cuerpo de otra persona",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Manda un audio a alguien haciendo ver que estás teniendo un orgasmo",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Cuenta un sueño erótico que hayas tenido y que recuerdes",
+        "category": "Hot",
+        "id": 2
+      },
+      {
+        "name": "Dale un beso a otra persona del grupo, en la parte del cuerpo que prefieras",
+        "category": "Hot",
+        "id": 2
+      }
+    ]
+}

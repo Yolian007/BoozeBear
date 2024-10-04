@@ -1,0 +1,35 @@
+{
+    "AsksYoNunca": 
+    [
+        {
+            "name": "He sido infiel",
+            "category": "Nunca",
+            "id": 1
+        },
+    
+        {
+            "name": "Me he drogado",
+            "category": "Nunca",
+            "id": 2
+        },
+    
+        {
+            "name": "He bailado la cucharita",
+            "category": "Nunca",
+            "id": 3
+        
+        },
+        {
+            "name": "He tenido pecueca",
+            "category": "Nunca",
+            "id": 4
+        },
+    
+        {
+            "name": "He bebido",
+            "category": "Nunca",
+            "id": 5
+        }
+    ]
+
+}

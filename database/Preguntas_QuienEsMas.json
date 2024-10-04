@@ -1,0 +1,50 @@
+{
+    "asksQuienEsMas":
+    [
+        {
+            "name": "¿Quién es más probable que haga un trío primero?",
+            "category": "Quien",
+            "id": 1
+        },
+
+        {
+            "name": "¿Quién es más probable que se case antes?",
+            "category": "Quien",
+            "id": 2
+        },
+
+        {
+            "name": "¿Quién es más probable que se divorcie antes?",
+            "category": "Quien",
+            "id": 3
+        },
+
+        {
+            "name": "¿Quién es más probable que tenga hijos antes?",
+            "category": "Quien",
+            "id": 4
+        },
+
+        {
+            "name": "¿Quién es más probable que deje el trabajo antes?",
+            "category": "Quien",
+            "id": 5
+        },
+        {
+            "name": "¿Quién es más probable que se haga rico?",
+            "category": "Quien",
+            "id": 5
+        },
+        {
+            "name": "¿Quién es más probable que tenga una aventura con alguien mayor?",
+            "category": "Quien",
+            "id": 5
+        },
+        {
+            "name": "¿Quién es más probable que se acueste con alguien de su mismo sexo?",
+            "category": "Quien",
+            "id": 5
+        }
+    ]
+
+}
